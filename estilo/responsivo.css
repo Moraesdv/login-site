@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@media screen and (max-width:1005px){
+    .navbar{
+        position: relative;
+    }
+    .menu{
+        display: none;
+    }
+
+    .logo{
+        margin: 0px;
+        text-align: center;
+    }
+    header{
+        padding-top: 50px;
+    }
+
+    .readline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .readline p{
+        text-align: center;
+    }
+
+    .imagem{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .whats{
+        display: none;
+    }
+
+    .card{
+        width: 100%;
+    }
+}
